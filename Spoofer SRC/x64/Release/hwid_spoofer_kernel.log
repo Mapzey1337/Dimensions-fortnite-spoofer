@@ -1,0 +1,5 @@
+﻿  Building 'hwid_spoofer_kernel' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+cl : ligne de commande warning D9014: valeur non valide '49874603' pour '/wd' ; '5999' pris par défaut
+  main.cpp
+  hwid_spoofer_kernel.vcxproj -> C:\Users\Alexis\Desktop\hwid_spoofer_kernel\x64\Release\hwid_spoofer_kernel.sys
+  Driver is 'Universal'.
